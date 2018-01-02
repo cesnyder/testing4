@@ -7,3 +7,5 @@ I deleted a bunch of lines.
 Add a line.
 
 Add another line.
+
+Add yet another line.
